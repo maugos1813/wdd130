@@ -152,7 +152,6 @@ h1 {
     max-width: 300px; 
     height: 200px;
     object-fit: cover;
-    object-fit: cover;
     justify-self: center; 
     border-radius: 8px;
   }
